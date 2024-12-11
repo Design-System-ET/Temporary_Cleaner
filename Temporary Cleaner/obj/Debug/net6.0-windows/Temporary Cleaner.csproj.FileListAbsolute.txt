@@ -1,0 +1,17 @@
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\bin\Debug\net6.0-windows\Temporary Cleaner.exe
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\bin\Debug\net6.0-windows\Temporary Cleaner.deps.json
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\bin\Debug\net6.0-windows\Temporary Cleaner.runtimeconfig.json
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\bin\Debug\net6.0-windows\Temporary Cleaner.dll
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\bin\Debug\net6.0-windows\Temporary Cleaner.pdb
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary_Cleaner.Form1.resources
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary_Cleaner.Properties.Resources.resources
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.csproj.GenerateResource.cache
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.AssemblyInfoInputs.cache
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.AssemblyInfo.cs
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.dll
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\refint\Temporary Cleaner.dll
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.pdb
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\Temporary Cleaner.genruntimeconfig.cache
+C:\Visual Studio\Temporary Cleaner\Temporary Cleaner\obj\Debug\net6.0-windows\ref\Temporary Cleaner.dll
